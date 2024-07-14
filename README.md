@@ -8,7 +8,10 @@ The Mars Rover Simulation in VR project aims to create an immersive and interact
 **Features:**
 
 
-Uploading MARS ROVER 123_Slomo (1) (1).mp4…
+https://github.com/user-attachments/assets/e9c68720-486c-4e05-b320-85b605c60c0e
+
+
+
 
 
 1. **Realistic Mars Terrain:**
